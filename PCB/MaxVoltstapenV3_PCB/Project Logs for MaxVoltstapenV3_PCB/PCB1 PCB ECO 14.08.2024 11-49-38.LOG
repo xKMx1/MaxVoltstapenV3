@@ -1,0 +1,59 @@
+Added Component: Designator=J(TE_1987374-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1987374-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1987374-4/TE%20Connectivity/view-part/3100872/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1987374-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BLU?-1
+Add Pin To Net: Unknown Pin: Pin BLU?-2
+Add Pin To Net: Unknown Pin: Pin BLU?-11
+Add Pin To Net: Unknown Pin: Pin BLU?-12
+Add Pin To Net: Unknown Pin: Pin BLU?-13
+Add Pin To Net: Unknown Pin: Pin BLU?-21
+Add Pin To Net: Unknown Pin: Pin BLU?-22
+Add Pin To Net: Unknown Pin: Pin BLU?-26
+Added Pin To Net: NetName=SWDIO Pin=J-1
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=SWCLK Pin=J-3
+Added Pin To Net: NetName=+3V3 Pin=J-4
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "SENS_1" already exists
+Add Net: Net with name "SENS_2" already exists
+Add Net: Net with name "SENS_3" already exists
+Add Net: Net with name "SENS_4" already exists
+Add Net: Net with name "SENS_5" already exists
+Add Net: Net with name "SENS_6" already exists
+Add Net: Net with name "SENS_7" already exists
+Add Net: Net with name "SENS_8" already exists
+Add Net: Net with name "SENS_9" already exists
+Add Net: Net with name "SENS_10" already exists
+Add Net: Net with name "VIN" already exists
+Add Class Member: Failed to add class member : Component BLU? HC-06
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 2.2u
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 2.2u
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 2.2u
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 47u
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component C? 100n
+Added Member To Class: ClassName=Pheripherials Member=Component C? 22p
+Added Member To Class: ClassName=Pheripherials Member=Component C? 100n
+Added Member To Class: ClassName=Pheripherials Member=Component C? 2n2
+Added Member To Class: ClassName=Pheripherials Member=Component C? 100n
+Added Member To Class: ClassName=Main_board Member=Component J? JST connector
+Added Member To Class: ClassName=Main_board Member=Component J SWD probe
+Added Member To Class: ClassName=Pheripherials Member=Component M? Pololu Encoders
+Added Member To Class: ClassName=Main_board Member=Component R? 10k
+Added Member To Class: ClassName=Main_board Member=Component R? 470R
+Added Member To Class: ClassName=Main_board Member=Component R? 4k7
+Added Member To Class: ClassName=Main_board Member=Component R? 10k
+Added Member To Class: ClassName=Pheripherials Member=Component R? 3k
+Added Member To Class: ClassName=Main_board Member=Component U? STM32H743
