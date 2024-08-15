@@ -43,7 +43,7 @@ CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
+CrossRefFollowFromMainSettings=0
 XNetsSourceDestinationPrefixes=U, X
 XNetsDiscretesPrefixes=R, L, C, VD
 

@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Main_board Member=J4
+Removed Member From Class: ClassName=Pheripherials Member=P1
+Removed Member From Class: ClassName=Pheripherials Member=R1
+Add Pin To Net: Unknown Pin: Pin BLU1-1
+Add Pin To Net: Unknown Pin: Pin BLU1-2
+Add Pin To Net: Unknown Pin: Pin BLU1-11
+Add Pin To Net: Unknown Pin: Pin BLU1-12
+Add Pin To Net: Unknown Pin: Pin BLU1-13
+Add Pin To Net: Unknown Pin: Pin BLU1-21
+Add Pin To Net: Unknown Pin: Pin BLU1-22
+Add Pin To Net: Unknown Pin: Pin BLU1-26
+Add Class Member: Failed to add class member : Component BLU1 HC-06
+Added Member To Class: ClassName=Main_board Member=Component C10 47u
+Added Member To Class: ClassName=Main_board Member=Component J3 JST connector
+Added Member To Class: ClassName=Main_board Member=Component R5 10k
+Added Member To Class: ClassName=Pheripherials Member=Component R? 470R
+Added Member To Class: ClassName=Pheripherials Member=Component U2 MPU-6050
