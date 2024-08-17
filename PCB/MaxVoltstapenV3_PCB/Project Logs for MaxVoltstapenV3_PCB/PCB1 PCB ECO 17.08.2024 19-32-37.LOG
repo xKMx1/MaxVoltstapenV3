@@ -1,0 +1,13 @@
+Add Pin To Net: Unknown Pin: Pin BLU1-1
+Add Pin To Net: Unknown Pin: Pin BLU1-2
+Add Pin To Net: Unknown Pin: Pin BLU1-11
+Add Pin To Net: Unknown Pin: Pin BLU1-12
+Add Pin To Net: Unknown Pin: Pin BLU1-13
+Add Pin To Net: Unknown Pin: Pin BLU1-21
+Add Pin To Net: Unknown Pin: Pin BLU1-22
+Add Pin To Net: Unknown Pin: Pin BLU1-26
+Change Net Name : Old Net Name=NetC15_2 New Net Name=MPU_REGOUT
+Change Net Name : Old Net Name=NetDS1_2 New Net Name=D1_NET
+Change Net Name : Old Net Name=NetDS2_2 New Net Name=D2_NET
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=USB_VBUS
+Add Class Member: Failed to add class member : Component BLU1 HC-06
